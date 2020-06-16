@@ -8,7 +8,7 @@ Made by [Automat-IT](https://www.automat-it.com/)
 ## Installation
 
 ```bash
-npm i strapi-provider-email-nodemailer
+npm i gelinger777/strapi-provider-email-nodemailer#master
 ```
 
 ## Configuration
